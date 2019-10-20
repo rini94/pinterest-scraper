@@ -4,7 +4,7 @@ Scrape images from a board and save it to a folder.
 
 - Run the script. Images limit can be given as argument (optional).
 - Enter the board url.
-- The images are downloaded and saved to a folder with the name of the board.
+- The images are downloaded and saved to a folder with the name of the board (A max images limit of 10000 given as default).
 - Uses Selenium and chrome driver.
 - Uses Python3.
 
