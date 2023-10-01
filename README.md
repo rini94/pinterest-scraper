@@ -16,7 +16,7 @@ Scrape images from a board and save it to a folder.
 Output:
 
 ````
-Enter the url of the chapter or the page:
+Enter the url of the board:
 https://www.pinterest.com/flickr/straight-from-flickr/
 ````
 This will download all the images from the board.
@@ -28,7 +28,7 @@ This will download all the images from the board.
 Output:
 
 ````
-Enter the url of the chapter or the page:
+Enter the url of the board:
 https://www.pinterest.com/flickr/straight-from-flickr/
 ````
 This will download 4 images from the board.
